@@ -1,0 +1,6 @@
+genome hg00733_cen
+trackDb trackDb.txt
+twoBitPath hg00733_cen.2bit
+organism Human 
+defaultPos hg00733_cenX_h1v1:1-4705000
+

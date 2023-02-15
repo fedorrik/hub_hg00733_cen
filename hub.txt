@@ -1,0 +1,6 @@
+hub hg00733_cen
+shortLabel hg00733_cen
+longLabel hg00733_cen
+genomesFile genomes.txt
+email  fedorrik1@gmail.com
+
